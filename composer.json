@@ -1,0 +1,21 @@
+{
+  "name": "vendor_name/qjt",
+  "description": "A mall application",
+  "minimum-stability": "beta",
+  "license": "HPND",
+  "require": {
+    "php": ">=7.0",
+    "voku/anti-xss": "^4.1.39",
+    "khanamiryan/qrcode-detector-decoder": "1.0.6",
+    "ext-json": "*",
+    "ext-curl": "*",
+    "ext-zip": "*",
+    "ext-pdo": "*",
+    "ext-mbstring": "*",
+    "ext-mysqli": "*",
+    "ext-gd": "*"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-latest"
+  }
+}

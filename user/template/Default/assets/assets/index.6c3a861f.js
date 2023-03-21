@@ -1,0 +1,1 @@
+import{_ as r}from"./index.7e8edd7c.js";const s={data(){},created(){this.Router("/user")},methods:{Router(t,e={}){this.$router.push({path:t,query:e})}}};function o(t,e,a,u,n,c){return null}var _=r(s,[["render",o]]);export{_ as default};

@@ -1,0 +1,1 @@
+System.register(["./index-legacy.6abde332.js"],(function(e){"use strict";var t;return{setters:[function(e){t=e._}],execute:function(){e("default",t({data(){},created(){this.Router("/user")},methods:{Router(e,t={}){this.$router.push({path:e,query:t})}}},[["render",function(e,t,r,u,n,s){return null}]]))}}}));
